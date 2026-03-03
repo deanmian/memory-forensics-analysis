@@ -2,11 +2,13 @@
 
 ## Overview
 
-This project presents a memory forensics investigation performed on a Windows virtual machine that was compromised after a user opened a malicious email attachment disguised as a PDF.
+This project presents a memory forensics investigation performed on a Windows virtual machine that was intentionally infected in a controlled laboratory environment.
 
-The objective was to identify indicators of compromise (IOCs), analyze suspicious processes, and reconstruct the infection activity using memory analysis techniques.
+The scenario simulates a phishing incident in which a user opened a malicious email attachment disguised as a PDF, leading to system compromise.
 
-⚠️ This analysis was conducted in a controlled academic lab environment for educational purposes.
+⚠️ The company name used in this case study (ETOLEPSED S.A.) is entirely fictitious and used solely for educational purposes.
+
+⚠️ All analysis was conducted in an isolated academic environment.
 
 ---
 
@@ -63,8 +65,14 @@ The investigation followed standard DFIR practices:
 
 ## Notes
 
-This repository is intended for educational and research purposes only.  
-No original malware samples or full memory dumps are distributed.
+This project was developed for educational and research purposes within an academic digital forensics module.
+
+- The organization referenced (ETOLEPSED S.A.) is fictional.
+- The analyzed system was part of a controlled lab environment.
+- No real user data or production systems were involved.
+- No original malware samples or full memory dumps are distributed.
+
+This repository is intended strictly for learning and portfolio demonstration.
 
 ---
 
